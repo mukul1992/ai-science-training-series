@@ -75,3 +75,6 @@ scratch/
 
 # Misc
 .DS_Store
+
+# added by Mukul
+03_neural_networks_tensorflow/cifar10*
