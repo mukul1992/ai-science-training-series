@@ -235,6 +235,16 @@ def train_epoch(i_epoch, step_in_epoch, train_ds, val_ds, network, optimizer, BA
         end = time.time()
         images_per_second = BATCH_SIZE / (end - start)
         print(f"Finished step {step_in_epoch.numpy()} of {steps_per_epoch} in epoch {i_epoch.numpy()},loss={loss:.3f}, acc={acc:.3f} ({images_per_second:.3f} img/s).")
+
+        f = open("myloss.txt", "a")
+        f.write("%f" % loss)
+        f.write("\n")
+        f.close()
+        f = open("myacc.txt", "a")
+        f.write("%f" % acc)
+        f.write("\n")
+        f.close()
+
         start = time.time()
 
     # Save the network after every epoch:
@@ -300,7 +310,7 @@ def main():
     # Here's some configuration:
     #########################################################################
     BATCH_SIZE = 256
-    N_EPOCHS = 10
+    N_EPOCHS = 1
 
     train_ds, val_ds = prepare_data_loader(BATCH_SIZE)
 
