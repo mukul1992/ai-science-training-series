@@ -5,7 +5,7 @@ import time,math
 os.environ["TF_FORCE_GPU_ALLOW_GROWTH"] = "true"
 os.environ["TF_XLA_FLAGS"] = "--tf_xla_auto_jit=2"
 # This control parallelism in Tensorflow
-parallel_threads = 128
+parallel_threads = 16
 # This controls how many batches to prefetch
 prefetch_buffer_size = 8 # tf.data.AUTOTUNE
 os.environ['OMP_NUM_THREADS'] = str(parallel_threads)
@@ -342,7 +342,7 @@ def main():
     # Here's some configuration:
     #########################################################################
     BATCH_SIZE = 256
-    N_EPOCHS = 10
+    N_EPOCHS = 1
 
     train_ds, val_ds = prepare_data_loader(BATCH_SIZE)
 
