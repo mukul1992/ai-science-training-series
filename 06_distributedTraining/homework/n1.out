@@ -1,0 +1,65 @@
+Epoch - 0, step #000000/000234	Loss: 2.310042
+Epoch - 0, step #000100/000234	Loss: 0.157775
+Epoch - 0, step #000200/000234	Loss: 0.130687
+E[0], train Loss: 0.262476, training Acc: 0.921, val loss: 0.059, val Acc: 0.982	 Time: 5.996 seconds
+Epoch - 1, step #000000/000234	Loss: 0.090939
+Epoch - 1, step #000100/000234	Loss: 0.072556
+Epoch - 1, step #000200/000234	Loss: 0.133011
+E[1], train Loss: 0.110833, training Acc: 0.967, val loss: 0.055, val Acc: 0.982	 Time: 1.552 seconds
+Epoch - 2, step #000000/000234	Loss: 0.038447
+Epoch - 2, step #000100/000234	Loss: 0.095730
+Epoch - 2, step #000200/000234	Loss: 0.163195
+E[2], train Loss: 0.092469, training Acc: 0.973, val loss: 0.041, val Acc: 0.987	 Time: 1.554 seconds
+Epoch - 3, step #000000/000234	Loss: 0.099292
+Epoch - 3, step #000100/000234	Loss: 0.053384
+Epoch - 3, step #000200/000234	Loss: 0.047941
+E[3], train Loss: 0.078569, training Acc: 0.976, val loss: 0.033, val Acc: 0.990	 Time: 1.551 seconds
+Epoch - 4, step #000000/000234	Loss: 0.058630
+Epoch - 4, step #000100/000234	Loss: 0.128398
+Epoch - 4, step #000200/000234	Loss: 0.043243
+E[4], train Loss: 0.078163, training Acc: 0.977, val loss: 0.039, val Acc: 0.987	 Time: 1.721 seconds
+Epoch - 5, step #000000/000234	Loss: 0.136264
+Epoch - 5, step #000100/000234	Loss: 0.030556
+Epoch - 5, step #000200/000234	Loss: 0.047695
+E[5], train Loss: 0.069052, training Acc: 0.979, val loss: 0.041, val Acc: 0.988	 Time: 1.557 seconds
+Epoch - 6, step #000000/000234	Loss: 0.042342
+Epoch - 6, step #000100/000234	Loss: 0.121071
+Epoch - 6, step #000200/000234	Loss: 0.114183
+E[6], train Loss: 0.066229, training Acc: 0.980, val loss: 0.036, val Acc: 0.988	 Time: 1.552 seconds
+Epoch - 7, step #000000/000234	Loss: 0.054067
+Epoch - 7, step #000100/000234	Loss: 0.044999
+Epoch - 7, step #000200/000234	Loss: 0.105293
+E[7], train Loss: 0.063489, training Acc: 0.981, val loss: 0.031, val Acc: 0.991	 Time: 1.549 seconds
+Epoch - 8, step #000000/000234	Loss: 0.027509
+Epoch - 8, step #000100/000234	Loss: 0.069411
+Epoch - 8, step #000200/000234	Loss: 0.060419
+E[8], train Loss: 0.057790, training Acc: 0.982, val loss: 0.028, val Acc: 0.992	 Time: 1.554 seconds
+Epoch - 9, step #000000/000234	Loss: 0.048323
+Epoch - 9, step #000100/000234	Loss: 0.100340
+Epoch - 9, step #000200/000234	Loss: 0.049927
+E[9], train Loss: 0.059362, training Acc: 0.982, val loss: 0.038, val Acc: 0.989	 Time: 1.552 seconds
+Epoch - 10, step #000000/000234	Loss: 0.045271
+Epoch - 10, step #000100/000234	Loss: 0.025905
+Epoch - 10, step #000200/000234	Loss: 0.046303
+E[10], train Loss: 0.057155, training Acc: 0.982, val loss: 0.035, val Acc: 0.990	 Time: 1.558 seconds
+Epoch - 11, step #000000/000234	Loss: 0.024124
+Epoch - 11, step #000100/000234	Loss: 0.080629
+Epoch - 11, step #000200/000234	Loss: 0.042993
+E[11], train Loss: 0.051845, training Acc: 0.984, val loss: 0.031, val Acc: 0.991	 Time: 1.553 seconds
+Epoch - 12, step #000000/000234	Loss: 0.034030
+Epoch - 12, step #000100/000234	Loss: 0.073943
+Epoch - 12, step #000200/000234	Loss: 0.085723
+E[12], train Loss: 0.055813, training Acc: 0.983, val loss: 0.035, val Acc: 0.989	 Time: 1.567 seconds
+Epoch - 13, step #000000/000234	Loss: 0.026623
+Epoch - 13, step #000100/000234	Loss: 0.066461
+Epoch - 13, step #000200/000234	Loss: 0.037641
+E[13], train Loss: 0.056489, training Acc: 0.983, val loss: 0.037, val Acc: 0.990	 Time: 1.553 seconds
+Epoch - 14, step #000000/000234	Loss: 0.033887
+Epoch - 14, step #000100/000234	Loss: 0.028545
+Epoch - 14, step #000200/000234	Loss: 0.014386
+E[14], train Loss: 0.051959, training Acc: 0.984, val loss: 0.037, val Acc: 0.990	 Time: 1.555 seconds
+Epoch - 15, step #000000/000234	Loss: 0.079627
+Epoch - 15, step #000100/000234	Loss: 0.061529
+Epoch - 15, step #000200/000234	Loss: 0.017975
+E[15], train Loss: 0.057040, training Acc: 0.984, val loss: 0.037, val Acc: 0.989	 Time: 1.552 seconds
+Total training time: 29.517112493515015 seconds
